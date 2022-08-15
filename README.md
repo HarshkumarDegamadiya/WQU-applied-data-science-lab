@@ -30,6 +30,13 @@ In this project we used a database server(MongoDB) and also predicted air qualit
 ### Earthquake Damage in Kavrepalanchok
 In this assignment, we built a classification model to predict building damage for the district of Kavrepalanchok.
 
+### Customer Segmentation in the US
+Compare characteristics across subgroups using a side-by-side bar chart.
+Build a k-means clustering model.
+Conduct feature selection for clustering based on variance.
+Reduce high-dimensional data using principal component analysis (PCA).
+Design, build and deploy a Dash web application.
+
 ### Algorithms 
 1. Linear Regression
 2. Logistic Regression
